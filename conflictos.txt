@@ -1,1 +1,1 @@
-Este es un contenido para hacer pruebas
+Nuevamente en Visual Studio Code, realizar cambios en la misma linea del mismo archivo de texto estando en la rama principal
